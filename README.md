@@ -98,6 +98,6 @@ __Note:__ running with no argument defaults to `plan`.
 __Apache License__
 
 ## Authors
-  * Veaceslav ( Slava ) Mindru (<mindruv@gmail.com>)
-  * Alex Romanov (<aromanov@strataconsulting.com>)
-  * Todd Michael Bushnell (<todd@strataconsulting.com>)
+  * Slava Mindru (https://github.com/vmindru)
+  * Alex Romanov (https://github.com/netflash)
+  * Todd Michael Bushnell (https://github.com/toddmichael)
